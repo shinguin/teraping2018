@@ -139,8 +139,8 @@ class PingTarget :
         self.result.insert (0, self.get_result_char (res))
 
 	if self.count == 6:
-					from_address  = 's.teramoto@kisseicomtec.jp'
-					to_address    = 's.teramoto@kisseicomtec.jp'
+					from_address  = 'example1@mail.co.jp'
+					to_address    = 'example2@mail.co.jp'
 					IP_address = self.count
 					
 
