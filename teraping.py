@@ -4,9 +4,9 @@
 # original software is "pingman".
 # original software is "deadman".
 # Copyright 2015 Interop Tokyo ShowNet team All Rights Reserved.
-# Copyright 2017 KC TechTeam Teramoto Shinya
+# Copyright 2017 KC TechTeam Tera
 # upa@haeena.net
-# adding Function "log"
+# adding Function log&Alert-mail
 #Developer : tera@tech-KCrent
 #Naming Person : kuma@tech-KCrent
 
